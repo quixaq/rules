@@ -32,13 +32,9 @@ Welcome to our vibrant Discord community! To ensure a positive and inclusive env
 
    Engaging in any illegal activities is strictly prohibited. Uphold local and international laws and refrain from actions that compromise the legal integrity of our server.
 
-3.2 *No Hacking or Exploiting in Roblox*
+3.2 *No Impersonation*
 
-   Ensure fairness and integrity in gaming experiences by refraining from hacking or exploiting in Roblox. Violations will result in appropriate consequences.
-
-3.3 *No Impersonation*
-
-   Maintain trust and transparency by refraining from impersonating Discord or Roblox staff. Such actions undermine the community's sense of security.
+   Maintain trust and transparency by refraining from impersonating Discord staff, moderation team and other members. Such actions undermine the community's sense of security.
 
 3.4 *Protection of Personal Information*
 
